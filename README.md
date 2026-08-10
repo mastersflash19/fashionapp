@@ -13,6 +13,17 @@
 
 **FashionApp** is a modern, AI-powered fashion web application built with **Next.js 14**, **React**, **TypeScript**, and **Tailwind CSS**. The app helps users discover their perfect style through personalized recommendations, virtual try-on, and smart shopping features.
 
+This project is a collaborative effort between **Tshephang Makgaloa** and **Klass Milisa**.
+
+---
+
+## 👥 Collaborators
+
+| Name | Role | GitHub |
+|------|------|--------|
+| **Tshephang Makgaloa** | Co-Developer | [@mastersflash19](https://github.com/mastersflash19) |
+| **Klass Milisa** | Co-Developer | [@klassmilisa](https://github.com/klassmilisa) |
+
 ---
 
 ## ✨ Features
@@ -71,16 +82,6 @@ Manage your entire wardrobe with categories, brands, and search functionality.
 Detailed view of wardrobe items with brand and usage tracking.
 
 ![Wardrobe Items](FashionApp/screenshots/WardrobeItems.png)
-
-### Full Page Gallery
-
-| Desktop Hero | Mobile View |
-|--------------|-------------|
-| ![Hero Desktop](FashionApp/screenshots/Hero.png) | ![Mobile Hero](FashionApp/screenshots/Hero.png) |
-
-| Wardrobe Dashboard | Item Management |
-|--------------------|-----------------|
-| ![Wardrobe](FashionApp/screenshots/MyWardrobe.png) | ![Items](FashionApp/screenshots/WardrobeItems.png) |
 
 ---
 
