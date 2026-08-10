@@ -50,37 +50,37 @@
 ### Hero Section
 The main landing page showcasing the AI-powered fashion assistant.
 
-![Hero Section](screenshots/Hero.png)
+![Hero Section](FashionApp/screenshots/Hero.png)
 
 ### How It Works
 Four key features that make FashionApp work for you - scan wardrobe, AI planning, real-time sales, and savings.
 
-![How It Works](screenshots/HowItWorks.png)
+![How It Works](FashionApp/screenshots/HowItWorks.png)
 
 ### Footer & Trust Signals
 Clean footer design with trust signals and social proof.
 
-![Footer](screenshots/Footer.png)
+![Footer](FashionApp/screenshots/Footer.png)
 
 ### My Wardrobe Dashboard
 Manage your entire wardrobe with categories, brands, and search functionality.
 
-![My Wardrobe](screenshots/MyWardrobe.png)
+![My Wardrobe](FashionApp/screenshots/MyWardrobe.png)
 
 ### Wardrobe Items View
 Detailed view of wardrobe items with brand and usage tracking.
 
-![Wardrobe Items](screenshots/WardrobeItems.png)
+![Wardrobe Items](FashionApp/screenshots/WardrobeItems.png)
 
 ### Full Page Gallery
 
 | Desktop Hero | Mobile View |
 |--------------|-------------|
-| ![Hero Desktop](screenshots/Hero.png) | ![Mobile Hero](screenshots/Hero.png) |
+| ![Hero Desktop](FashionApp/screenshots/Hero.png) | ![Mobile Hero](FashionApp/screenshots/Hero.png) |
 
 | Wardrobe Dashboard | Item Management |
 |--------------------|-----------------|
-| ![Wardrobe](screenshots/MyWardrobe.png) | ![Items](screenshots/WardrobeItems.png) |
+| ![Wardrobe](FashionApp/screenshots/MyWardrobe.png) | ![Items](FashionApp/screenshots/WardrobeItems.png) |
 
 ---
 
@@ -133,21 +133,6 @@ Examples of tracked brands:
 - ✅ Intersection Observer for scroll animations
 - ✅ Responsive design for all devices
 - ✅ Accessibility (a11y) support
-
----
-
-## 🎯 Features Planned
-
-- [ ] **Authentication** - User login and registration
-- [ ] **AI Outfit Generator** - ML-powered outfit suggestions
-- [ ] **Shopping Cart** - Add items to cart
-- [ ] **Wishlist** - Save favorite items
-- [ ] **Payment Integration** - Stripe or PayPal
-- [ ] **Admin Dashboard** - Manage items and users
-- [ ] **Database Integration** - MongoDB or PostgreSQL
-- [ ] **PWA Support** - Progressive Web App features
-- [ ] **Push Notifications** - Sale alerts and reminders
-- [ ] **Social Features** - Share outfits with community
 
 ---
 
